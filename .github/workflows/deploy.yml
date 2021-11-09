@@ -31,6 +31,8 @@ jobs:
       - name: Install Packages
         working-directory: ./app
         run: yarn
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_READONLY_TOKEN }}
       - name: Build
         working-directory: ./app
         run: yarn build
