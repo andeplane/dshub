@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dshub/static/css/main.d45bc6ff.chunk.css",
+    "main.js": "/dshub/static/js/main.a05d0998.chunk.js",
+    "main.js.map": "/dshub/static/js/main.a05d0998.chunk.js.map",
+    "runtime-main.js": "/dshub/static/js/runtime-main.71f0bd0a.js",
+    "runtime-main.js.map": "/dshub/static/js/runtime-main.71f0bd0a.js.map",
+    "static/css/2.c1712a57.chunk.css": "/dshub/static/css/2.c1712a57.chunk.css",
+    "static/js/2.ae899835.chunk.js": "/dshub/static/js/2.ae899835.chunk.js",
+    "static/js/2.ae899835.chunk.js.map": "/dshub/static/js/2.ae899835.chunk.js.map",
+    "static/js/3.c8c18072.chunk.js": "/dshub/static/js/3.c8c18072.chunk.js",
+    "static/js/3.c8c18072.chunk.js.map": "/dshub/static/js/3.c8c18072.chunk.js.map",
+    "index.html": "/dshub/index.html",
+    "static/css/2.c1712a57.chunk.css.map": "/dshub/static/css/2.c1712a57.chunk.css.map",
+    "static/css/main.d45bc6ff.chunk.css.map": "/dshub/static/css/main.d45bc6ff.chunk.css.map",
+    "static/js/2.ae899835.chunk.js.LICENSE.txt": "/dshub/static/js/2.ae899835.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71f0bd0a.js",
+    "static/css/2.c1712a57.chunk.css",
+    "static/js/2.ae899835.chunk.js",
+    "static/css/main.d45bc6ff.chunk.css",
+    "static/js/main.a05d0998.chunk.js"
+  ]
+}
